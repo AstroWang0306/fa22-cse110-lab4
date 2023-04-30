@@ -30,8 +30,6 @@
 
 <img width="120" alt="Screen Shot 2023-04-30 at 2 20 05 PM" src="https://user-images.githubusercontent.com/97696773/235376737-222f0322-9995-48b3-8faf-c86dcb7b9341.png">
 
-<img width="562" alt="Screen Shot 2023-04-30 at 2 14 54 PM" src="https://user-images.githubusercontent.com/97696773/235376538-3f23ae1e-0d58-44cd-be3f-f77b723954c3.png">
-
 ## 7. When was the file last modified?
 
 <img width="310" alt="Screen Shot 2023-04-30 at 2 17 56 PM" src="https://user-images.githubusercontent.com/97696773/235376657-fdc5aea6-ab05-49ce-8f81-3e0cf9990cfd.png">
